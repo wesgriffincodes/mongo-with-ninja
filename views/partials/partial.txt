@@ -1,0 +1,1 @@
+where partial EJS files will go
